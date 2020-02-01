@@ -2,6 +2,8 @@
 
 By: James Lim, Quang D Nguyen, Neel Lal
 
+Data source: https://www.kaggle.com/pablote/nba-enhanced-stats/version/27#2017-18_playerBoxScore.csv
+
 Our project goals were to determine whether a trade between two players is beneficial for an inputted team. We used the team-record of a team after the trade as a measure for how beneficial the trade is for the team
 
 What our algorithm can do:
